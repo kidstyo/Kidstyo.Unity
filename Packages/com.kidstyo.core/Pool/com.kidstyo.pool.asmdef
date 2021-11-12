@@ -1,0 +1,16 @@
+{
+    "name": "com.kidstyo.pool",
+    "rootNamespace": "",
+    "references": [
+        "GUID:370dd9ae574ce3648bed4b38f1443d51"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
