@@ -27,5 +27,10 @@ namespace KidStyo.Helper
             fs.Dispose();
             return true;
         }
+
+        public static string ImportFile(string filePath)
+        {
+            return File.ReadAllText(filePath);
+        }
     }
 }
