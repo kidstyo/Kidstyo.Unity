@@ -1,8 +1,12 @@
 {
-    "name": "KidStyo.Core",
+    "name": "Kidstyo.ResourceManage.Editor",
     "rootNamespace": "",
-    "references": [],
-    "includePlatforms": [],
+    "references": [
+        "GUID:6d19ab2ce7201d448bf97444c6ae9223"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,

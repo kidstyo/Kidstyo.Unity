@@ -1,7 +1,9 @@
 {
-    "name": "KidStyo.Core",
+    "name": "Kidstyo.ResourceManage",
     "rootNamespace": "",
-    "references": [],
+    "references": [
+        "GUID:370dd9ae574ce3648bed4b38f1443d51"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
